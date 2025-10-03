@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="/vendor/lightbox.css">
     <link rel="stylesheet" href="/vendor/animation.css">
     <link rel="stylesheet" href="/vendor/jqueru-ui-min.css">
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="/bootstrap.min.css">
     <!-- Swiper CSS -->
