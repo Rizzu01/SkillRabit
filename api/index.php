@@ -11,20 +11,20 @@
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
     <!-- CSS
 	============================================ -->
-    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/vendor/remixicon.css">
-    <link rel="stylesheet" href="assets/css/vendor/eduvibe-font.css">
-    <link rel="stylesheet" href="assets/css/vendor/magnifypopup.css">
-    <link rel="stylesheet" href="assets/css/vendor/slick.css">
-    <link rel="stylesheet" href="assets/css/vendor/odometer.css">
-    <link rel="stylesheet" href="assets/css/vendor/lightbox.css">
-    <link rel="stylesheet" href="assets/css/vendor/animation.css">
-    <link rel="stylesheet" href="assets/css/vendor/jqueru-ui-min.css">
+    <link rel="stylesheet" href="/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="/vendor/remixicon.css">
+    <link rel="stylesheet" href="/vendor/eduvibe-font.css">
+    <link rel="stylesheet" href="/vendor/magnifypopup.css">
+    <link rel="stylesheet" href="/vendor/slick.css">
+    <link rel="stylesheet" href="/vendor/odometer.css">
+    <link rel="stylesheet" href="/vendor/lightbox.css">
+    <link rel="stylesheet" href="/vendor/animation.css">
+    <link rel="stylesheet" href="/vendor/jqueru-ui-min.css">
     <link rel="stylesheet" href="/style.css">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/bootstrap.min.css">
     <!-- Swiper CSS -->
-    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="/swiper-bundle.min.css" />
 </head>
 
 <body>
