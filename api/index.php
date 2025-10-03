@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
     <!-- CSS
 	============================================ -->
     <link rel="stylesheet" href="/vendor/bootstrap.min.css">
@@ -228,7 +228,7 @@
 }
 
 .skills-tools {
-    background-image: url("assets/images/skill_tool.svg");
+    background-image: url("images/skill_tool.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -298,7 +298,7 @@
 }
 
 .cta-section {
-    background-image: url("assets/images/take.png");
+    background-image: url("images/take.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -605,7 +605,7 @@ input[type="text"], input[type="password"], input[type="email"], input[type="num
 
 .build-portfolio {
     text-align: center;
-    background-image: url("assets/images/build-portfolio.svg");
+    background-image: url("images/build-portfolio.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1467,7 +1467,7 @@ button i {
                 <button class="hamberger-button" id="hamberger-top"><i class="ri-menu-line"></i></button>
                 <div class="logo">
                     <a href="index">
-                        <img class="logo-light" id="main-logos-tops" src="assets/images/logo.svg" alt="logo-skill-rabbit">
+                        <img class="logo-light" id="main-logos-tops" src="images/logo.svg" alt="logo-skill-rabbit">
                     </a>
                 </div>
             </div>
@@ -1507,7 +1507,7 @@ button i {
             <div class="header-top">
                 <div class="logo">
                     <a href="index">
-                        <img src="assets/images/logo.svg" alt="logo-mobile-skill-rabbit">
+                        <img src="images/logo.svg" alt="logo-mobile-skill-rabbit">
                     </a>
                 </div>
                 <div class="close-menu">
@@ -1541,7 +1541,7 @@ button i {
                         <div class="inner">
                             <div class="content text-start">
                               <span class="text-center">
-                                  <img src="assets/images/arrow.svg" class="arrow-top" alt="arrow">
+                                  <img src="images/arrow.svg" class="arrow-top" alt="arrow">
                               </span>
                                 <h1 class="title1" data-sal-delay="250" data-sal="slide-up" data-sal-duration="800" style="color: #000; font-weight: bold;
                                   ">Code Your Way to Success– Transform into an IT Pro</h1>
@@ -1554,7 +1554,7 @@ button i {
                     <div class="col-lg-5">
                         <div class="banner-image">
                             <div class="banner-main-image" id="man-img">
-                                <img class="img-01" data-sal-delay="150" data-sal="fade" data-sal-duration="800" src="assets/images/man.svg" alt="man" />
+                                <img class="img-01" data-sal-delay="150" data-sal="fade" data-sal-duration="800" src="images/man.svg" alt="man" />
                             </div>
                         </div>
                     </div>
@@ -1572,7 +1572,7 @@ button i {
                 <div class="col-12 col-md-3 d-flex justify-content-center">
                     <div class="info-item">
                         <div class="info-icon">
-                            <img src="assets/images/students.svg" alt="students">
+                            <img src="images/students.svg" alt="students">
                         </div>
                         <div class="info-text">
                             <div>1590+ Students</div>
@@ -1585,7 +1585,7 @@ button i {
                 <div class="col-12 col-md-3 d-flex justify-content-center">
                     <div class="info-item">
                         <div class="info-icon">
-                            <img src="assets/images/edu.svg" alt="edu">
+                            <img src="images/edu.svg" alt="edu">
                         </div>
                         <div class="info-text">
                             <div>85% Above</div>
@@ -1598,7 +1598,7 @@ button i {
                 <div class="col-12 col-md-3 d-flex justify-content-center">
                     <div class="info-item">
                         <div class="info-icon">
-                            <img src="assets/images/rupee.svg" alt="rupee">
+                            <img src="images/rupee.svg" alt="rupee">
                         </div>
                         <div class="info-text">
                             <div>Pay 50% Fees</div>
@@ -1611,7 +1611,7 @@ button i {
                 <div class="col-12 col-md-2 d-flex justify-content-center">
                     <div class="info-item">
                         <div class="info-icon">
-                            <img src="assets/images/professor.svg" alt="professor">
+                            <img src="images/professor.svg" alt="professor">
                         </div>
                         <div class="info-text">
                             <div>Learn With</div>
@@ -1645,7 +1645,7 @@ button i {
             <div class="row g-lg-5 g-md-5 g-sm-5">
                 <div class="col-lg-12 col-xl-6">
                     <div class="gallery-wrapper">
-                        <img class="image-1" src="assets/images/beginner.svg" alt="beginner">
+                        <img class="image-1" src="images/beginner.svg" alt="beginner">
                     </div>
                 </div>
                 <div class="col-lg-12 col-xl-6">
@@ -1656,7 +1656,7 @@ button i {
                         <div class="feature-style-6 mt--40">
                             <div class="edu-feature-list color-variation-1" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                                 <div style="margin-right: 15px;">
-                                    <img src="assets/images/code_01.svg" alt="code-01">
+                                    <img src="images/code_01.svg" alt="code-01">
                                 </div>
                                 <div class="content">
                                     <p class="description">Fullstack development course </p>
@@ -1664,7 +1664,7 @@ button i {
                             </div>
                             <div class="edu-feature-list color-variation-2" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                                 <div style="margin-right: 15px;">
-                                    <img src="assets/images/code_02.svg" alt="code-02">
+                                    <img src="images/code_02.svg" alt="code-02">
                                 </div>
                                 <div class="content">
                                     <p class="description">Land high paying jobs from 5-12 lpa in 6 months</p>
@@ -1672,7 +1672,7 @@ button i {
                             </div>
                             <div class="edu-feature-list color-variation-2" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                                 <div style="margin-right: 15px;">
-                                    <img src="assets/images/code_03.svg" alt="code-03">
+                                    <img src="images/code_03.svg" alt="code-03">
                                 </div>
                                 <div class="content">
                                     <p class="description">Pay 50% Fees after placements</p>
@@ -1680,7 +1680,7 @@ button i {
                             </div>
                             <div class="edu-feature-list color-variation-2" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                                 <div style="margin-right: 15px;">
-                                    <img src="assets/images/code_04.svg" alt="code-04">
+                                    <img src="images/code_04.svg" alt="code-04">
                                 </div>
                                 <div class="content">
                                     <p class="description">Get internship certificate </p>
@@ -1688,7 +1688,7 @@ button i {
                             </div>
                             <div class="edu-feature-list color-variation-2" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                                 <div style="margin-right: 15px;">
-                                    <img src="assets/images/code_05.svg" alt="code-05">
+                                    <img src="images/code_05.svg" alt="code-05">
                                 </div>
                                 <div class="content">
                                     <p class="description">100% placement support</p>
@@ -1696,7 +1696,7 @@ button i {
                             </div>
                             <div class="edu-feature-list color-variation-2" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                                 <div style="margin-right: 15px;">
-                                    <img src="assets/images/code_06.svg" alt="code-06">
+                                    <img src="images/code_06.svg" alt="code-06">
                                 </div>
                                 <div class="content">
                                     <p class="description">Daily interactive live class and 1:1 doubt session</p>
@@ -1704,7 +1704,7 @@ button i {
                             </div>
                             <div class="edu-feature-list color-variation-2" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                                 <div style="margin-right: 15px; margin-top: 5px;">
-                                    <img src="assets/images/code_07.svg" alt="code-01">
+                                    <img src="images/code_07.svg" alt="code-01">
                                 </div>
                                 <div class="content">
                                     <p class="description">WhatsApp community access.</p>
@@ -1875,49 +1875,49 @@ button i {
                 </div>
                 <div class="col-md-4 col-sm-6 col-6">
                     <div class="fullStack">
-                        <img src="assets/images/highest_salary.png" alt="highest-salary" width="50" />
+                        <img src="images/highest_salary.png" alt="highest-salary" width="50" />
                         <h5 class="fullStack-text">₹21 Lakhs Highest salary</h5>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-6">
                     <div class="fullStack">
-                        <img src="assets/images/highest_hike.png" alt="highest-hike" width="50" />
+                        <img src="images/highest_hike.png" alt="highest-hike" width="50" />
                         <h5 class="fullStack-text">175% Highest hike</h5>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-6">
                     <div class="fullStack">
-                        <img src="assets/images/hike_demand.png" alt="hike-demand" width="50" />
+                        <img src="images/hike_demand.png" alt="hike-demand" width="50" />
                         <h5 class="fullStack-text">40% Hike in Demand</h5>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-6">
                     <div class="fullStack">
-                        <img src="assets/images/hiring_partners.png" alt="hiring-partners" width="50"  />
+                        <img src="images/hiring_partners.png" alt="hiring-partners" width="50"  />
                         <h5 class="fullStack-text">1000+ Hiring partners</h5>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-6">
                     <div class="fullStack">
-                        <img src="assets/images/industry_experts.png" alt="industry-experts" width="50" />
+                        <img src="images/industry_experts.png" alt="industry-experts" width="50" />
                         <h5 class="fullStack-text">360+ Top Industry Experts</h5>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-6">
                     <div class="fullStack">
-                        <img src="assets/images/beginner_friendly.png" alt="beginner-friendly" width="50" />
+                        <img src="images/beginner_friendly.png" alt="beginner-friendly" width="50" />
                         <h5 class="fullStack-text">Beginner-friendly</h5>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-6">
                     <div class="fullStack">
-                        <img src="assets/images/students_placed.png" alt="students-placed" width="50" />
+                        <img src="images/students_placed.png" alt="students-placed" width="50" />
                         <h5 class="fullStack-text">1000+ students placed</h5>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-6">
                     <div class="fullStack">
-                        <img src="assets/images/placement_guidance.png" alt="placement-guidance" width="50" />
+                        <img src="images/placement_guidance.png" alt="placement-guidance" width="50" />
                         <h5 class="fullStack-text">Placement Guidance</h5>
                     </div>
                 </div>
@@ -1936,7 +1936,7 @@ button i {
                         <div class="inner">
                             <div class="client-info">
                                 <div class="thumbnail">
-                                    <img src="assets/images/profile.svg" alt="Client Images">
+                                    <img src="images/profile.svg" alt="Client Images">
                                 </div>
                                 <div class="content">
                                     <h6 class="title-name">Narendra</h6>
@@ -1951,7 +1951,7 @@ button i {
                         <div class="inner">
                             <div class="client-info">
                                 <div class="thumbnail">
-                                    <img src="assets/images/profile.svg" alt="Client Images">
+                                    <img src="images/profile.svg" alt="Client Images">
                                 </div>
                                 <div class="content">
                                     <h6 class="title-name">Aayushi</h6>
@@ -1966,7 +1966,7 @@ button i {
                         <div class="inner">
                             <div class="client-info">
                                 <div class="thumbnail">
-                                    <img src="assets/images/profile.svg" alt="Client Images">
+                                    <img src="images/profile.svg" alt="Client Images">
                                 </div>
                                 <div class="content">
                                     <h6 class="title-name">Rohit</h6>
@@ -1981,7 +1981,7 @@ button i {
                         <div class="inner">
                             <div class="client-info">
                                 <div class="thumbnail">
-                                    <img src="assets/images/profile.svg" alt="Client Images">
+                                    <img src="images/profile.svg" alt="Client Images">
                                 </div>
                                 <div class="content">
                                     <h6 class="title-name">Divya</h6>
@@ -1996,7 +1996,7 @@ button i {
                         <div class="inner">
                             <div class="client-info">
                                 <div class="thumbnail">
-                                    <img src="assets/images/profile.svg" alt="Client Images">
+                                    <img src="images/profile.svg" alt="Client Images">
                                 </div>
                                 <div class="content">
                                     <h6 class="title-name">Salman</h6>
@@ -2011,7 +2011,7 @@ button i {
                         <div class="inner">
                             <div class="client-info">
                                 <div class="thumbnail">
-                                    <img src="assets/images/profile.svg" alt="Client Images">
+                                    <img src="images/profile.svg" alt="Client Images">
                                 </div>
                                 <div class="content">
                                     <h6 class="title-name">Summit</h6>
@@ -2026,7 +2026,7 @@ button i {
                         <div class="inner">
                             <div class="client-info">
                                 <div class="thumbnail">
-                                    <img src="assets/images/profile.svg" alt="Client Images">
+                                    <img src="images/profile.svg" alt="Client Images">
                                 </div>
                                 <div class="content">
                                     <h6 class="title-name">Ananya</h6>
@@ -2055,7 +2055,7 @@ button i {
                     <div class="project-card1">
                         <div class="inner text-center">
                             <div class="icon" style="margin-bottom: 20px;">
-                                <img src="assets/images/money.png" alt="money-icon" width="50">
+                                <img src="images/money.png" alt="money-icon" width="50">
                             </div>
                             <div class="content">
                                 <h6 class="average">Average base salary</h6>
@@ -2068,7 +2068,7 @@ button i {
                     <div class="project-card1">
                         <div class="inner text-center">
                             <div class="icon" style="margin-bottom: 20px;">
-                                <img src="assets/images/vacancy.png" alt="vacancy-icon" width="50">
+                                <img src="images/vacancy.png" alt="vacancy-icon" width="50">
                             </div>
                             <div class="content">
                                 <h6 class="average">Job Vacancies</h6>
@@ -2081,7 +2081,7 @@ button i {
                     <div class="project-card1">
                         <div class="inner text-center">
                             <div class="icon" style="margin-bottom: 20px;">
-                                <img src="assets/images/product-research.png" alt="product-research-icon" width="50">
+                                <img src="images/product-research.png" alt="product-research-icon" width="50">
                             </div>
                             <div class="content">
                                 <h6 class="average">High demand across industries</h6>
@@ -2094,7 +2094,7 @@ button i {
                     <div class="project-card1">
                         <div class="inner text-center">
                             <div class="icon" style="margin-bottom: 20px;">
-                                <img src="assets/images/light-bulb.png" alt="light-bulb-icon" width="50">
+                                <img src="images/light-bulb.png" alt="light-bulb-icon" width="50">
                             </div>
                             <div class="content">
                                 <h6 class="average">Get hired in top product-based companies</h6>
@@ -2107,7 +2107,7 @@ button i {
                     <div class="project-card1">
                         <div class="inner text-center">
                             <div class="icon" style="margin-bottom: 20px;">
-                                <img src="assets/images/job-seeker.png" alt="job-seeker-icon" width="50">
+                                <img src="images/job-seeker.png" alt="job-seeker-icon" width="50">
                             </div>
                             <div class="content">
                                 <h6 class="average">Wide Range of Career Opportunities After Course Completion</h6>
@@ -2251,7 +2251,7 @@ button i {
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="logo">
                             <a href="landing">
-                                <img class="logo-light" id="logo-footers" src="assets/images/footer_logo.svg" alt="footer-logo">
+                                <img class="logo-light" id="logo-footers" src="images/footer_logo.svg" alt="footer-logo">
                             </a>
                         </div>
                     </div>
@@ -2301,11 +2301,11 @@ button i {
                         <div class="edu-footer-widget explore-widget">
                             <h5 class="widget-title">Les's do it</h5>
                             <ul class="social-share1">
-                                <li><a href="#"> <img src="assets/images/twitter.svg" alt="twitter-icon" width="40"> </a></li>
-                                <li><a href="#"><img src="assets/images/linkedin.svg" alt="linkedin-icon" width="40"></a></li>
-                                <li><a href="#"><img src="assets/images/instagram.svg" alt="instagram-icon" width="40"></a></li>
-                                <li><a href="#"><img src="assets/images/facebook.svg" alt="facebook-icon" width="40"></a></li>
-                                <li><a href="#"><img src="assets/images/youtube.svg" alt="youtube-icon" width="40"></a></li>
+                                <li><a href="#"> <img src="images/twitter.svg" alt="twitter-icon" width="40"> </a></li>
+                                <li><a href="#"><img src="images/linkedin.svg" alt="linkedin-icon" width="40"></a></li>
+                                <li><a href="#"><img src="images/instagram.svg" alt="instagram-icon" width="40"></a></li>
+                                <li><a href="#"><img src="images/facebook.svg" alt="facebook-icon" width="40"></a></li>
+                                <li><a href="#"><img src="images/youtube.svg" alt="youtube-icon" width="40"></a></li>
                             </ul>
                         </div>
                     </div>
@@ -2373,31 +2373,31 @@ button i {
 
     <!-- JS ============================================ -->
     <!-- Modernizer JS -->
-    <script src="assets/js/vendor/modernizr.min.js"></script>
+    <script src="js/vendor/modernizr.min.js"></script>
     <!-- jQuery JS -->
-    <script src="assets/js/vendor/jquery.js"></script>
-    <!-- <script src="assets/js/vendor/bootstrap.min.js"></script> -->
-    <script src="assets/js/vendor/sal.min.js"></script>
-    <script src="assets/js/vendor/backtotop.js"></script>
-    <script src="assets/js/vendor/magnifypopup.js"></script>
-    <script src="assets/js/vendor/slick.js"></script>
-    <script src="assets/js/vendor/countdown.js"></script>
-    <script src="assets/js/vendor/jquery-appear.js"></script>
-    <script src="assets/js/vendor/odometer.js"></script>
-    <script src="assets/js/vendor/isotop.js"></script>
-    <script src="assets/js/vendor/imageloaded.js"></script>
-    <script src="assets/js/vendor/lightbox.js"></script>
-    <script src="assets/js/vendor/wow.js"></script>
-    <script src="assets/js/vendor/paralax.min.js"></script>
-    <script src="assets/js/vendor/paralax-scroll.js"></script>
-    <script src="assets/js/vendor/jquery-ui.js"></script>
-    <script src="assets/js/vendor/tilt.jquery.min.js"></script>
+    <script src="js/vendor/jquery.js"></script>
+    <!-- <script src="js/vendor/bootstrap.min.js"></script> -->
+    <script src="js/vendor/sal.min.js"></script>
+    <script src="js/vendor/backtotop.js"></script>
+    <script src="js/vendor/magnifypopup.js"></script>
+    <script src="js/vendor/slick.js"></script>
+    <script src="js/vendor/countdown.js"></script>
+    <script src="js/vendor/jquery-appear.js"></script>
+    <script src="js/vendor/odometer.js"></script>
+    <script src="js/vendor/isotop.js"></script>
+    <script src="js/vendor/imageloaded.js"></script>
+    <script src="js/vendor/lightbox.js"></script>
+    <script src="js/vendor/wow.js"></script>
+    <script src="js/vendor/paralax.min.js"></script>
+    <script src="js/vendor/paralax-scroll.js"></script>
+    <script src="js/vendor/jquery-ui.js"></script>
+    <script src="js/vendor/tilt.jquery.min.js"></script>
     <!-- Main JS -->
-    <script src="assets/js/main.js"></script>
+    <script src="js/main.js"></script>
     <!-- Bootstrap JS -->
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
     <!-- Swiper JS -->
-    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="js/swiper-bundle.min.js"></script>
 
 <script>
     var swiper = new Swiper(".mySwiper", {
