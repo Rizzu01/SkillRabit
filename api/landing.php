@@ -12,6 +12,7 @@
 	
     <!-- CSS
 	============================================ -->
+	<base href="/">
     <link rel="stylesheet" href="css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="css/vendor/remixicon.css">
     <link rel="stylesheet" href="css/vendor/eduvibe-font.css">
