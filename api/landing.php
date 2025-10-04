@@ -9,23 +9,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png">
-	<base href="/">
+	
     <!-- CSS
 	============================================ -->
-    <link rel="stylesheet" href="/css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/vendor/remixicon.css">
-    <link rel="stylesheet" href="/css/vendor/eduvibe-font.css">
-    <link rel="stylesheet" href="/css/vendor/magnifypopup.css">
-    <link rel="stylesheet" href="/css/vendor/slick.css">
-    <link rel="stylesheet" href="/css/vendor/odometer.css">
-    <link rel="stylesheet" href="/css/vendor/lightbox.css">
-    <link rel="stylesheet" href="/css/vendor/animation.css">
-    <link rel="stylesheet" href="/css/vendor/jqueru-ui-min.css">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="css/vendor/remixicon.css">
+    <link rel="stylesheet" href="css/vendor/eduvibe-font.css">
+    <link rel="stylesheet" href="css/vendor/magnifypopup.css">
+    <link rel="stylesheet" href="css/vendor/slick.css">
+    <link rel="stylesheet" href="css/vendor/odometer.css">
+    <link rel="stylesheet" href="css/vendor/lightbox.css">
+    <link rel="stylesheet" href="css/vendor/animation.css">
+    <link rel="stylesheet" href="css/vendor/jqueru-ui-min.css">
+    <link rel="stylesheet" href="css/style.css">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Swiper CSS -->
-    <link rel="stylesheet" href="/css/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="css/swiper-bundle.min.css" />
 </head>
 
 <body>
@@ -2373,31 +2373,31 @@ button i {
 
     <!-- JS ============================================ -->
     <!-- Modernizer JS -->
-    <script src="assets/js/vendor/modernizr.min.js"></script>
+    <script src="js/vendor/modernizr.min.js"></script>
     <!-- jQuery JS -->
-    <script src="assets/js/vendor/jquery.js"></script>
+    <script src="js/vendor/jquery.js"></script>
     <!-- <script src="assets/js/vendor/bootstrap.min.js"></script> -->
-    <script src="/js/vendor/sal.min.js"></script>
-    <script src="/js/vendor/backtotop.js"></script>
-    <script src="/js/vendor/magnifypopup.js"></script>
-    <script src="/js/vendor/slick.js"></script>
-    <script src="/js/vendor/countdown.js"></script>
-    <script src="/js/vendor/jquery-appear.js"></script>
-    <script src="/js/vendor/odometer.js"></script>
-    <script src="/js/vendor/isotop.js"></script>
-    <script src="/js/vendor/imageloaded.js"></script>
-    <script src="/js/vendor/lightbox.js"></script>
-    <script src="/js/vendor/wow.js"></script>
-    <script src="/js/vendor/paralax.min.js"></script>
-    <script src="/js/vendor/paralax-scroll.js"></script>
-    <script src="/js/vendor/jquery-ui.js"></script>
-    <script src="/js/vendor/tilt.jquery.min.js"></script>
+    <script src="js/vendor/sal.min.js"></script>
+    <script src="js/vendor/backtotop.js"></script>
+    <script src="js/vendor/magnifypopup.js"></script>
+    <script src="js/vendor/slick.js"></script>
+    <script src="js/vendor/countdown.js"></script>
+    <script src="js/vendor/jquery-appear.js"></script>
+    <script src="js/vendor/odometer.js"></script>
+    <script src="js/vendor/isotop.js"></script>
+    <script src="js/vendor/imageloaded.js"></script>
+    <script src="js/vendor/lightbox.js"></script>
+    <script src="js/vendor/wow.js"></script>
+    <script src="js/vendor/paralax.min.js"></script>
+    <script src="js/vendor/paralax-scroll.js"></script>
+    <script src="js/vendor/jquery-ui.js"></script>
+    <script src="js/vendor/tilt.jquery.min.js"></script>
     <!-- Main JS -->
-    <script src="/js/main.js"></script>
+    <script src="js/main.js"></script>
     <!-- Bootstrap JS -->
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
     <!-- Swiper JS -->
-    <script src="/js/swiper-bundle.min.js"></script>
+    <script src="js/swiper-bundle.min.js"></script>
 
 <script>
     // Play button functionality
